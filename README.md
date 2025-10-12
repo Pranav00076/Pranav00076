@@ -57,6 +57,18 @@
 
 ---
 
+### 🎯 Tech-to-Goal Mapping
+I leverage my stack to achieve specific architectural goals:
+
+| Stack Element | Core Use Case | Impact/Goal |
+| :--- | :--- | :--- |
+| **React/Next.js** | Building dynamic, responsive UIs | Maximize user experience and performance. |
+| **Node.js/Express** | Developing secure RESTful APIs | Ensure robust, scalable backend services. |
+| **DSA & C++** | Competitive Programming/Optimization | Maintain low time complexity ($\mathcal{O}(n)$) and high efficiency. |
+| **MongoDB** | Flexible data modeling | Enable rapid prototyping and iteration. |
+
+---
+
 ### 🌟 Featured Deployment Targets
 
 | Project | Stack | Status | Repository | Live Demo |
@@ -90,6 +102,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav00076" alt="GitHub Streak" />
   </picture>
 </p>
+
+---
+
+### 🤝 Quick Contribution Links
+Want to contribute? Jump right into: **[Good First Issues Across My Repositories](https://github.com/search?q=user%3APranav00076+label%3A%22good+first+issue%22+type%3Aissue)**
 
 ---
 
