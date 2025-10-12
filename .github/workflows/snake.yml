@@ -30,7 +30,7 @@ jobs:
 
       # Step 3: Commits the generated file back to the repository
       - name: Commit files
-        uses: actions/add-and-commit@v9
+        uses: EndBug/add-and-commit@v9
         with:
           author_name: Snake Bot
           author_email: actions@github.com
