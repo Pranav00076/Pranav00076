@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pranav00076/Pranav00076/main/banner.png" alt="Electric Purple Banner" width="100%">
-</p>
 
 <div align="center">
   <h1>
@@ -160,4 +157,8 @@ Want to contribute? Jump right into: **[Good First Issues Across My Repositories
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranav00076/Pranav00076/main/banner.png" alt="Electric Purple Banner" width="100%">
 </p>
