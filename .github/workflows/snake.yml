@@ -1,0 +1,38 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Step 1: Checks out your repository
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      # Step 2: Runs the snake generator action
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        id: snake-svg
+        with:
+          github_user_name: Pranav00076 # <--- ⚠️ REPLACE WITH YOUR GITHUB USERNAME
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 3: Commits the generated file back to the repository
+      - name: Commit files
+        uses: actions/add-and-commit@v9
+        with:
+          author_name: Snake Bot
+          author_email: actions@github.com
+          message: '🐍 chore: generate snake contribution graph'
+          add: 'dist/*.svg'
