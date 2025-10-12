@@ -122,7 +122,7 @@
 ### 🐍 Contribution Graph Visualization
 
 <p align="center">
-  <img src="https://github.com/Pranav00076/Pranav00076/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Pranav00076/Pranav00076/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
