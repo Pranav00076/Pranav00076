@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranav00076/Pranav00076/main/banner.png" alt="Electric Purple Banner" width="100%">
+</p>
+
 <div align="center">
   <h1>
     <a href="https://Pranav00076.github.io" target="_blank">
