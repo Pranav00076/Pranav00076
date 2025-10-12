@@ -74,9 +74,8 @@ I leverage my stack to achieve specific architectural goals:
 
 | Project | Stack | Status | Repository | Live Demo |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Project Name A]** | React, Node.js, Mongo | Production | [Code](link-to-repo) | [Launch](link-to-live-site) |
-| **[Project Name B]** | Next.js, TypeScript | Beta | [Code](link-to-repo) | [Launch](link-to-live-site) |
-| **[Project Name C]** | C++, DSA | Core | [Code](link-to-repo) | N/A |
+| **[Project Name A]** | HTML, CSS, Python | Production | [Code](link-to-repo) | [Launch](link-to-live-site) |
+
 
 ---
 
