@@ -1,11 +1,10 @@
-
 <div align="center">
   <h1>
     <a href="https://Pranav00076.github.io" target="_blank">
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2800&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;System+Architect;Problem+Solver;Pranav+Thawait+%7BCode%7D" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2800&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Learning+%26+Building+the+Future;Student+%2C+Innovator;Exploring+AI+%26+Design;Pranav+Thawait+%7BCode%7D" alt="Typing SVG" />
     </a>
   </h1>
-  <h3>$ **./execute --build --optimize --scale**</h3>
+  <h3>$ **./execute --learn --innovate --impact**</h3>
 </div>
 
 <p align="center">
@@ -26,34 +25,35 @@
 
 > “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
 
-**Current State:** 🚀 A **Full-Stack Engineer** focused on building resilient and scalable web applications. My core expertise lies in designing optimal **data structures** and engineering clean, **modular architecture**.
+**Current State:** 🎓 A highly driven **Student & Aspiring Technologist** building a strong foundation in core web and AI tools. I focus on practical problem-solving and clean design principles as I prepare for the next generation of tech.
 
-**Core Mission:** To translate complex requirements into **efficient, high-performance codebases** that drive user value. I am perpetually engaged in **optimization cycles**.
+**Core Mission:** To **acquire foundational knowledge** in development, design, and intelligent systems, translating academic concepts into impactful real-world projects. I am perpetually engaged in **learning cycles**.
 
 #### 🔑 Key Metrics & Focus Areas (The Roadmap)
 
 | Metric | Target | Status |
 | :--- | :--- | :--- |
-| **Current Stack** | MERN/Next.js | **Active** |
-| **Optimization Focus** | Time Complexity ($\mathcal{O}(n)$) | **High Priority** |
-| **Learning Path** | Microservices Architecture | **In Progress** |
+| **Current Stack** | Python/JavaScript/OpenAI | **Active** |
+| **Optimization Focus** | Design Thinking & UI/UX | **High Priority** |
+| **Future Path** | AI/ML and Data Science | **In Progress** |
 
-- 🔭 **Active Development:** Integrating **OAuth 2.0 authentication** and developing **WebSocket-based communication** for my latest project.
-- 🌱 **Skill Acquisition:** Deep dive into **Next.js Server Components** and advanced **Data Structure & Algorithm (DSA)** patterns.
-- 🤝 **Collaboration Protocol:** Open to merging on **high-impact open-source repositories** requiring JS/React expertise.
-- 💬 **Input/Output:** Discuss **System Design, Code Refactoring, and Scalability**.
+- 🔭 **Active Development:** Enhancing **My Portfolio** to serve as a hub for my projects and learning path.
+- 🌱 **Skill Acquisition:** Deep dive into **AI integration (OpenAI APIs)** and mastering **design workflow (Canva)**.
+- 🤝 **Collaboration Protocol:** Open to contributing to **beginner-friendly open-source projects** and design collaborations.
+- 💬 **Input/Output:** Discuss **Web Fundamentals, AI Use Cases, and Presentation Design**.
 - 📫 **API Endpoint:** **[pranavthawait@gmail.com](mailto:pranavthawait@gmail.com)**
-- ⚡ **Fun Fact (System Status):** My most effective commits are usually authored between 1 AM and 4 AM. **Status: Night Mode Enabled 🌕**
+- ⚡ **Fun Fact (System Status):** I utilize **Canva** to design all my project presentations and technical documentation. **Status: Learning Mode Activated 💡**
 
 ---
 
 ### 🛠️ Technology Stack & Toolchain
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express&theme=dark" alt="Frontend & Backend Stack">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" alt="Core Tech Stack">
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,git,github,vscode,postman,docker&theme=dark" alt="Database, Languages, and Tools">
+  <img src="https://skillicons.dev/icons?i=vercel,canva&theme=dark" alt="Design, Deployment, and AI Tools">
+  <img src="https://img.shields.io/badge/OpenAI-41295D.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge">
 </p>
 
 ---
@@ -63,10 +63,10 @@ I leverage my stack to achieve specific architectural goals:
 
 | Stack Element | Core Use Case | Impact/Goal |
 | :--- | :--- | :--- |
-| **React/Next.js** | Building dynamic, responsive UIs | Maximize user experience and performance. |
-| **Node.js/Express** | Developing secure RESTful APIs | Ensure robust, scalable backend services. |
-| **DSA & C++** | Competitive Programming/Optimization | Maintain low time complexity ($\mathcal{O}(n)$) and high efficiency. |
-| **MongoDB** | Flexible data modeling | Enable rapid prototyping and iteration. |
+| **HTML/CSS/JS** | Building dynamic and accessible frontends | Maximize compatibility and user interaction. |
+| **Python** | Scripting, data handling, and AI tasks | Enable efficient automation and research. |
+| **Canva** | Presentation and design mockups | Create professional, visually appealing documentation. |
+| **OpenAI** | Integrating intelligent features | Explore future capabilities of applications. |
 
 ---
 
@@ -74,8 +74,8 @@ I leverage my stack to achieve specific architectural goals:
 
 | Project | Stack | Status | Repository | Live Demo |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Project Name A]** | HTML, CSS, Python | Production | [Code](link-to-repo) | [Launch](link-to-live-site) |
-
+| **Kanchen Yatra** | HTML, Vercel, JavaScript | Production | [Code](Link-to-Kanchen-Yatra-Repo) | [Launch](Link-to-Kanchen-Yatra-Live-Site) |
+| **My Portfolio** | HTML/CSS/JS | Production | [Code](Link-to-Portfolio-Repo) | [Launch](https://Pranav00076.github.io) |
 
 ---
 
@@ -156,8 +156,4 @@ Want to contribute? Jump right into: **[Good First Issues Across My Repositories
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pranav00076/Pranav00076/main/banner.png" alt="Electric Purple Banner" width="100%">
 </p>
