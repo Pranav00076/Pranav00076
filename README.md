@@ -74,8 +74,9 @@ I leverage my stack to achieve specific architectural goals:
 
 | Project | Stack | Status | Repository | Live Demo |
 | :--- | :--- | :--- | :--- | :--- |
-| **Kanchen Yatra** | HTML, Vercel, JavaScript | Production | [Code](https://github.com/Pranav00076/v0-kanchen-yatra-platform_1-pq.git)| [Launch](Link-to-Kanchen-Yatra-Live-Site) |
+| **Kanchen Yatra** | HTML, Vercel, JavaScript | Completed(basic) | [Code](https://github.com/Pranav00076/v0-kanchen-yatra-platform_1-pq.git)| [Launch](Link-to-Kanchen-Yatra-Live-Site) |
 | **My Portfolio** | HTML/CSS/JS | Production | [Code](Link-to-Portfolio-Repo) | [Launch](https://Pranav00076.github.io) |
+| **Photography Showcase** | HTML/CSS/JS | Production | [Code]([Link-to-Portfolio-Repo](https://github.com/Pranav00076/Photography-Showcase---Project)) | [Launch](https://Pranav00076.github.io) |
 
 ---
 
