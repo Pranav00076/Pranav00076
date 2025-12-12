@@ -75,7 +75,7 @@ I leverage my stack to achieve specific architectural goals:
 | Project | Stack | Status | Repository | Live Demo |
 | :--- | :--- | :--- | :--- | :--- |
 | **Kanchen Yatra** | HTML, Vercel, JavaScript | Completed(basic) | [Code](https://github.com/Pranav00076/v0-kanchen-yatra-platform_1-pq.git)| [Launch](Link-to-Kanchen-Yatra-Live-Site) |
-| **Invoice Generator** | HTML/CSS/JS | Completed | [Code](https://github.com/Pranav00076/Invoice-Generator) | [Launch](https://invoice-generator-proj.vercel.app/) |
+| **Invoice Generator** | HTML/CSS/JS | Completed | [Code](https://github.com/Pranav00076/Invoice-Generator) | [Launch](https://pranav00076.github.io/Invoice-Generator/) |
 | **PhotoTrance** | HTML/CSS/JS | Completed | [Code](https://github.com/Pranav00076/Photography-Showcase---Project) | [Launch](https://phototrance-project.vercel.app/) |
 
 
