@@ -107,24 +107,7 @@ I leverage my stack to achieve specific architectural goals:
 
 ---
 
-### 🤝 Quick Contribution Links
-Want to contribute? Jump right into: **[Good First Issues Across My Repositories](https://github.com/search?q=user%3APranav00076+label%3A%22good+first+issue%22+type%3Aissue)**
-
----
-
-### 🏆 Validation & Certifications
-
-<p align="center">
-  <picture>
-    <source srcset="https://github-profile-trophy.vercel.app/?username=Pranav00076&theme=tokyonight&no-frame=true&margin-w=5&row=1&column=7" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-profile-trophy.vercel.app/?username=Pranav00076&theme=flat&no-frame=true&margin-w=5&row=1&column=7" media="(prefers-color-scheme: light)" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Pranav00076&theme=tokyonight&no-frame=true&margin-w=5" alt="GitHub Trophies" />
-  </picture>
-</p>
-
----
-
-### 🎃 Open Source Contribution Log (Hacktoberfest)
+### 🎃 Hacktoberfest
 
 <p align="center">
   <a href="https://holopin.io/@Pranav00076">
