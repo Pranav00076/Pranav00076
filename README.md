@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="luffy-gear5-moon-transformation-rxjuhxn3kb2n8tdt.jpg" >
+</div>
+
+<div align="center">
   <h1>
     <a href="https://Pranav00076.github.io" target="_blank">
       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=Learning+%26+Building+the+Future;Student+%2C+Innovator;Exploring+AI+%26+Design;Pranav+Thawait+%7BCode%7D" alt="Typing SVG" />
