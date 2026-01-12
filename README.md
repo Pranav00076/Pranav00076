@@ -81,32 +81,6 @@ I leverage my stack to achieve specific architectural goals:
 
 ---
 
-### 📈 GitHub Analytics: Performance Metrics
-
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Pranav00076&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF00&icon_color=00FF00" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Pranav00076&show_icons=true&theme=default&hide_border=true&title_color=008000&icon_color=008000" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Pranav00076&show_icons=true" height="165" />
-  </picture>
-
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Pranav00076&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF00&icon_color=00FF00" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Pranav00076&layout=compact&theme=default&hide_border=true&title_color=008000&icon_color=008000" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranav00076&layout=compact" height="165" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pranav00076&theme=tokyonight&hide_border=true&ring=00FF00&currStreakNum=00FF00&fire=00FF00" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pranav00076&theme=default&hide_border=true&ring=008000&currStreakNum=008000&fire=008000" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav00076" alt="GitHub Streak" />
-  </picture>
-</p>
-
----
-
 ### 🎃 Hacktoberfest
 
 <p align="center">
