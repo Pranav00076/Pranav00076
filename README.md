@@ -8,7 +8,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=Learning+%26+Building+the+Future;Student+%2C+Innovator;Exploring+AI+%26+Design;Pranav+Thawait+%7BCode%7D" alt="Typing SVG" />
     </a>
   </h1>
-  <h3>$ **./execute --learn --innovate --impact**</h3>
+  <h3>$ **./execute --learn --innovate --impact\.** $</h3>
 </div>
 
 <p align="center">
@@ -55,10 +55,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" alt="Core Tech Stack">
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,canva&theme=dark" alt="Design, Deployment, and AI Tools">
-  <img src="https://img.shields.io/badge/OpenAI-41295D.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge">
-</p>
 
 ---
 
@@ -70,7 +66,7 @@ I leverage my stack to achieve specific architectural goals:
 | **HTML/CSS/JS** | Building dynamic and accessible frontends | Maximize compatibility and user interaction. |
 | **Python** | Scripting, data handling, and AI tasks | Enable efficient automation and research. |
 | **Canva** | Presentation and design mockups | Create professional, visually appealing documentation. |
-| **OpenAI** | Integrating intelligent features | Explore future capabilities of applications. |
+| **AI** | Integrating intelligent features | Explore future capabilities of applications. |
 
 ---
 
@@ -78,9 +74,12 @@ I leverage my stack to achieve specific architectural goals:
 
 | Project | Stack | Status | Repository | Live Demo |
 | :--- | :--- | :--- | :--- | :--- |
-| **Kanchen Yatra** | HTML, Vercel, JavaScript | Completed(basic) | [Code](https://github.com/Pranav00076/v0-kanchen-yatra-platform_1-pq.git)| [Launch](Link-to-Kanchen-Yatra-Live-Site) |
+| **Kanchen Yatra** | HTML, Vercel, JavaScript | Completed(basic) | [Code](https://github.com/Pranav00076/v0-kanchen-yatra-platform_1-pq.git)| [Not Deployed]() |
 | **Invoice Generator** | HTML/CSS/JS | Completed | [Code](https://github.com/Pranav00076/Invoice-Generator) | [Launch](https://pranav00076.github.io/Invoice-Generator/) |
-| **PhotoTrance** | HTML/CSS/JS | Completed | [Code](https://github.com/Pranav00076/Photography-Showcase---Project) | [Launch](https://phototrance-project.vercel.app/) |
+| **PhotoTrance** | HTML/CSS | Completed | [Code](https://github.com/Pranav00076/Photography-Showcase---Project) | [Launch](https://phototrance-project.vercel.app/) |
+| **TapTapLuffy** | HTML/CSS/JS | Completed | [Code](https://github.com/Pranav00076/TapTapLuffy) | [Launch](https://pranav00076.github.io/TapTapLuffy/) |
+| **RockPaperScissors** | HTML/CSS/JS | Completed | [Code](https://github.com/Pranav00076/Rock-Paper-Scissors) | [Launch](https://pranav00076.github.io/Rock-Paper-Scissors/) |
+
 
 
 ---
@@ -92,17 +91,7 @@ I leverage my stack to achieve specific architectural goals:
     <img src="https://holopin.me/Pranav00076" alt="Holopin Badges" />
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/Hacktoberfest-2023-orange.svg?style=for-the-badge&logo=opensourceinitiative" alt="Hacktoberfest 2023" />
-  <img src="https://img.shields.io/badge/Hacktoberfest-2022-orange.svg?style=for-the-badge&logo=opensourceinitiative" alt="Hacktoberfest 2022" />
-  <img src="https://img.shields.io/badge/Hacktoberfest-2021-orange.svg?style=for-the-badge&logo=opensourceinitiative" alt="Hacktoberfest 2021" />
-</p>
-
----
-
-### 🐍 Contribution Graph Visualization
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pranav00076/Pranav00076/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange.svg?style=for-the-badge&logo=opensourceinitiative" alt="Hacktoberfest 2025" />
 </p>
 
 ---
