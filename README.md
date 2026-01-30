@@ -100,7 +100,7 @@ I leverage my stack to achieve specific architectural goals:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranav00076&label=Profile+Views&color=00FF00&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Pranav00076?label=Contributors%20Following&style=for-the-badge&color=brightgreen" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/Pranav00076?label=Contributors%20Following&style=for-the-badge&color=darkgreen" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Pranav00076?style=for-the-badge&color=00ff00&label=Repository%20Stars" alt="GitHub Stars" />
 </p>
 
