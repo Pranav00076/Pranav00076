@@ -74,11 +74,11 @@ I leverage my stack to achieve specific architectural goals:
 
 | Project | Stack | Status | Repository | Live Demo |
 | :--- | :--- | :--- | :--- | :--- |
-| **Kanchen Yatra** | HTML, Vercel, JavaScript | Completed(basic) | [Code](https://github.com/Pranav00076/v0-kanchen-yatra-platform_1-pq.git)| [Not Deployed]() |
 | **Invoice Generator** | HTML/CSS/JS | Completed | [Code](https://github.com/Pranav00076/Invoice-Generator) | [Launch](https://pranav00076.github.io/Invoice-Generator/) |
 | **PhotoTrance** | HTML/CSS | Completed | [Code](https://github.com/Pranav00076/Photography-Showcase---Project) | [Launch](https://phototrance-project.vercel.app/) |
 | **TapTapLuffy** | HTML/CSS/JS | Completed | [Code](https://github.com/Pranav00076/TapTapLuffy) | [Launch](https://pranav00076.github.io/TapTapLuffy/) |
 | **RockPaperScissors** | HTML/CSS/JS | Completed | [Code](https://github.com/Pranav00076/Rock-Paper-Scissors) | [Launch](https://pranav00076.github.io/Rock-Paper-Scissors/) |
+| **ToDo App** | HTML/CSS/JS | Completed | [Code](https://github.com/Pranav00076/Todo-App) | [Launch](https://pranav00076.github.io/Todo-App/) |
 
 
 
