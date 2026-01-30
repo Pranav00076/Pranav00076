@@ -18,9 +18,6 @@
   <a href="mailto:pranavthawait@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://Pranav00076.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C853.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Portfolio">
-  </a>
 </p>
 
 ---
