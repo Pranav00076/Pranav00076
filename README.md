@@ -5,10 +5,10 @@
 <div align="center">
   <h1>
     <a href="https://Pranav00076.github.io" target="_blank">
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=Learning+%26+Building+the+Future;Student+%2C+Innovator;Exploring+AI+%26+Design;Pranav+Thawait+%7BCode%7D" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=Building+AI+%26+Scalable+Systems;Student+%2C+Innovator;Exploring+LLMs+%26+Automation;Pranav+Thawait+%7BCode%7D" alt="Typing SVG" />
     </a>
   </h1>
-  <h3>$ **./execute --learn --innovate --impact\.** $</h3>
+  <h3>$ **./execute --build --scale --impact\.** $</h3>
 </div>
 
 <p align="center">
@@ -26,57 +26,59 @@
 
 > “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
 
-**Current State:** 🎓 A highly driven **Student & Aspiring Technologist** building a strong foundation in core web and AI tools. I focus on practical problem-solving and clean design principles as I prepare for the next generation of tech.
+**Current State:** 🎓 A highly driven **AI/ML Student & Full Stack Builder** focused on building practical systems in **LLMs, RAG, AI workflow automation, and scalable web applications**.
 
-**Core Mission:** To **acquire foundational knowledge** in development, design, and intelligent systems, translating academic concepts into impactful real-world projects. I am perpetually engaged in **learning cycles**.
+**Core Mission:** To build intelligent and scalable systems that combine **design, automation, and AI**, turning ideas into real-world products through continuous learning and experimentation.
 
 #### 🔑 Key Metrics & Focus Areas (The Roadmap)
 
-| Metric | Target | Status |
-| :--- | :--- | :--- |
-| **Current Stack** | Python/JavaScript/OpenAI | **Active** |
-| **Optimization Focus** | Design Thinking & UI/UX | **High Priority** |
-| **Future Path** | AI/ML and Data Science | **In Progress** |
+| Metric                 | Target                     | Status            |
+| :--------------------- | :------------------------- | :---------------- |
+| **Current Stack**      | Python/JavaScript/LLMs     | **Active**        |
+| **Optimization Focus** | RAG, Agents & Automation   | **High Priority** |
+| **Future Path**        | AI/ML Systems & Full Stack | **In Progress**   |
 
-- 🔭 **Active Development:** Enhancing **My Portfolio** to serve as a hub for my projects and learning path.
-- 🌱 **Skill Acquisition:** Deep dive into **AI integration (OpenAI APIs)** and mastering **design workflow (Canva)**.
-- 🤝 **Collaboration Protocol:** Open to contributing to **beginner-friendly open-source projects** and design collaborations.
-- 💬 **Input/Output:** Discuss **Web Fundamentals, AI Use Cases, and Presentation Design**.
-- 📫 **API Endpoint:** **[pranavthawait@gmail.com](mailto:pranavthawait@gmail.com)**
-- ⚡ **Fun Fact (System Status):** I utilize **Canva** to design all my project presentations and technical documentation. **Status: Learning Mode Activated 💡**
+* 🔭 **Active Development:** Building **Local AI (Private RAG)** and scalable automation workflows.
+* 🌱 **Skill Acquisition:** Deep dive into **LangChain, Vector Databases, AI Agents, and Local LLMs**.
+* 🤝 **Collaboration Protocol:** Open to contributing to **AI, Full Stack, and Open Source Projects**.
+* 💬 **Input/Output:** Discuss **Web Development, AI Systems, LLMs, and Automation**.
+* 📫 **API Endpoint:** **[pranavthawait@gmail.com](mailto:pranavthawait@gmail.com)**
+* ⚡ **Fun Fact (System Status):** I build both the logic and the presentation layer — from **AI pipelines to polished frontend systems**. **Status: Shipping Mode Activated 🚀**
 
 ---
 
 ### 🛠️ Technology Stack & Toolchain
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" alt="Core Tech Stack">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind,firebase,supabase,git,github,vscode&theme=dark" alt="Core Tech Stack">
 </p>
 
 ---
 
 ### 🎯 Tech-to-Goal Mapping
+
 I leverage my stack to achieve specific architectural goals:
 
-| Stack Element | Core Use Case | Impact/Goal |
-| :--- | :--- | :--- |
-| **HTML/CSS/JS** | Building dynamic and accessible frontends | Maximize compatibility and user interaction. |
-| **Python** | Scripting, data handling, and AI tasks | Enable efficient automation and research. |
-| **Canva** | Presentation and design mockups | Create professional, visually appealing documentation. |
-| **AI** | Integrating intelligent features | Explore future capabilities of applications. |
+| Stack Element            | Core Use Case                                  | Impact/Goal                                         |
+| :----------------------- | :--------------------------------------------- | :-------------------------------------------------- |
+| **Next.js / React**      | Building scalable and interactive applications | Improve user experience and maintainability.        |
+| **Python**               | AI systems, automation, and backend logic      | Enable efficient workflows and intelligent systems. |
+| **LangChain / ChromaDB** | RAG pipelines and semantic retrieval           | Build private and contextual AI assistants.         |
+| **n8n / APIs**           | Workflow automation and integrations           | Reduce manual effort and scale processes.           |
+| **Firebase / Supabase**  | Authentication and real-time data systems      | Create dynamic and production-ready platforms.      |
 
 ---
 
 ### 🌟 Featured Deployment Targets
 
-| Project | Stack | Status | Repository | Live Demo |
-| :--- | :--- | :--- | :--- | :--- |
-| **Invoice Generator** | HTML/CSS/JS | Completed | [Code](https://github.com/Pranav00076/Invoice-Generator) | [Launch](https://pranav00076.github.io/Invoice-Generator/) |
-| **PhotoTrance** | HTML/CSS | Completed | [Code](https://github.com/Pranav00076/Photography-Showcase---Project) | [Launch](https://phototrance-project.vercel.app/) |
-| **TapTapLuffy** | HTML/CSS/JS | Completed | [Code](https://github.com/Pranav00076/TapTapLuffy) | [Launch](https://pranav00076.github.io/TapTapLuffy/) |
-| **RockPaperScissors** | HTML/CSS/JS | Completed | [Code](https://github.com/Pranav00076/Rock-Paper-Scissors) | [Launch](https://pranav00076.github.io/Rock-Paper-Scissors/) |
-| **ToDo App** | HTML/CSS/JS | Completed | [Code](https://github.com/Pranav00076/Todo-App) | [Launch](https://pranav00076.github.io/Todo-App/) |
-
+| Project                    | Stack                         | Status    | Repository                                      | Live Demo                                      |
+| :------------------------- | :---------------------------- | :-------- | :---------------------------------------------- | :--------------------------------------------- |
+| **PhotoTrance**            | HTML/CSS/Javascript           | Live      | [Code](https://github.com/Pranav00076/PhotoTrance) | [Launch](https://pranav00076.github.io/PhotoTrance/) |
+| **Local AI**               | Python/Ollama/LangChain       | Completed | [Code](https://github.com/Pranav00076/Local-AI) | Local |
+| **ConferAI**               | Next.js/Node.js/WebSockets    | Live      | [Code](https://github.com/Pranav00076/ConferAI) | [Launch](https://confer-ai.vercel.app/) |
+| **DemonDie**               | HTML/CSS/JS/Firebase/Supabase | Live      | [Code](https://github.com/Demon-Die)            | [Launch](https://demondie-website.vercel.app/) |
+| **Code-9**                 | React/Tailwind/Framer Motion  | Live      | [Code](https://github.com/Pranav00076/Code-9-)  | [Launch](https://code-9-xi.vercel.app/)        |
+| **AI Business Automation** | n8n/OpenAI/Airtable           | Active    | [Code](https://github.com/Pranav00076/AI-Business-Marketing-Suite---n8n)  | Local n8n |
 
 
 ---
