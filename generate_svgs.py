@@ -243,12 +243,14 @@ def make_projects():
         anim = "float" if i % 2 == 0 else "float-delay"
         
         cards += f'''
-        <g transform="translate({x}, {y})" style="animation: {anim} {6 + i*0.5}s ease-in-out infinite">
-            <rect x="0" y="0" width="440" height="140" rx="16" class="glass" />
-            <rect x="0" y="0" width="440" height="140" rx="16" fill="none" stroke="url(#aurora1)" stroke-width="1" />
-            <text x="24" y="45" font-family="system-ui" font-weight="800" font-size="24" fill="#ffffff">{title}</text>
-            <text x="24" y="75" class="text-body">{desc}</text>
-            {tags_svg}
+        <g transform="translate({x}, {y})">
+            <g style="animation: {anim} {6 + i*0.5}s ease-in-out infinite">
+                <rect x="0" y="0" width="440" height="140" rx="16" class="glass" />
+                <rect x="0" y="0" width="440" height="140" rx="16" fill="none" stroke="url(#aurora1)" stroke-width="1" />
+                <text x="24" y="45" font-family="system-ui" font-weight="800" font-size="24" fill="#ffffff">{title}</text>
+                <text x="24" y="75" class="text-body">{desc}</text>
+                {tags_svg}
+            </g>
         </g>
         '''
         
