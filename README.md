@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="luffy-gear5-moon-transformation-rxjuhxn3kb2n8tdt.jpg" alt="Banner">
+  <div class="tenor-gif-embed" data-postid="12263392075173900381" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/one-piece-luffy-gear-5-fifth-1072-gif-12263392075173900381">One Piece Luffy GIF</a>from <a href="https://tenor.com/search/one+piece-gifs">One Piece GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <div align="center">
@@ -9,21 +9,25 @@
     </a>
   </h1>
   <h3>$ **./execute --build --scale --impact\.** $</h3>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/pranav-thawait-140a092b2" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:pranavthawait@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://github.com/Pranav00076" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </p>
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranav-thawait-140a092b2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:pranavthawait@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/Pranav00076" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
 ---
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
 
 ### 💻 System Overview: Pranav Thawait
 
@@ -33,93 +37,125 @@
 
 **Core Mission:** To build intelligent and scalable systems that combine **design, automation, and AI**, turning ideas into real-world products through clean and efficient code.
 
+<details>
+<summary>⚡ <b>View Active Missions & Details</b></summary>
+
+<br/>
+
 * 🔭 **Active Development:** Building **Local AI (Private RAG)** and scalable automation workflows.
 * 🌱 **Skill Acquisition:** Deep dive into **LangChain, Vector Databases, AI Agents, and Local LLMs**.
 * 🤝 **Collaboration Protocol:** Open to contributing to **AI, Full Stack, and Open Source Projects**.
 * 📫 **API Endpoint:** **[pranavthawait@gmail.com](mailto:pranavthawait@gmail.com)**
 
+</details>
+
+<br/>
+
 ---
 
 ### 🛠️ Technology Stack & Toolchain
 
-#### ⚙️ Core & Languages
-<p>
+<div align="center">
+  <h4>⚙️ Core & Languages</h4>
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,cpp,bash&theme=dark" alt="Languages">
-</p>
-
-#### 🌐 Frontend & UI
-<p>
+  
+  <h4>🌐 Frontend & UI</h4>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark" alt="Frontend">
-</p>
-
-#### 🗄️ Backend, Databases & Cloud
-<p>
+  
+  <h4>🗄️ Backend, Databases & Cloud</h4>
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,postgres,mysql,docker,vercel&theme=dark" alt="Backend">
-</p>
+  
+  <h4>🤖 AI, Machine Learning & Automation</h4>
+  <p>
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+    <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+    <img src="https://img.shields.io/badge/Ollama-black.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
+    <img src="https://img.shields.io/badge/n8n-FF6D5A.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+    <img src="https://img.shields.io/badge/Zapier-FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier">
+    <img src="https://img.shields.io/badge/Airtable-18BFFF.svg?style=for-the-badge&logo=airtable&logoColor=white" alt="Airtable">
+  </p>
 
-#### 🤖 AI, Machine Learning & Automation
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Ollama-black.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
-  <img src="https://img.shields.io/badge/n8n-FF6D5A.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/Zapier-FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier">
-  <img src="https://img.shields.io/badge/Airtable-18BFFF.svg?style=for-the-badge&logo=airtable&logoColor=white" alt="Airtable">
-</p>
-
-#### 🔧 Tools & DevOps
-<p>
+  <h4>🔧 Tools & DevOps</h4>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" alt="Tools">
-</p>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Pranav00076&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="Pranav00076 Trophies" />
+  </a>
+</div>
 
 ---
 
 ### 🚀 Work Experience
 
-* **AI Intern @ FlyRank AI** *(July 2026)*: Built AI-driven content automation and SEO optimization workflows. Developed LLM-powered generation pipelines.
-* **Co-Founder & Maintainer @ Omnikon Organization** *(June 2026 - Present)*: Led development of official open-source org website. Managed deployments and contributor workflows.
-* **Open Source Contributor @ HacktoberFest** *(Oct 2025)*: Contributed PRs across multiple repositories for bug fixes and feature additions.
+> 💼 **AI Intern @ FlyRank AI** *(July 2026)*  
+> Built AI-driven content automation and SEO optimization workflows. Developed LLM-powered generation pipelines.
+
+> 🛠️ **Co-Founder & Maintainer @ Omnikon Organization** *(June 2026 - Present)*  
+> Led development of official open-source org website. Managed deployments and contributor workflows.
+
+> 🌐 **Open Source Contributor @ HacktoberFest** *(Oct 2025)*  
+> Contributed PRs across multiple repositories for bug fixes and feature additions.
 
 ---
 
 ### 🌟 Featured Projects
 
-| Project | Tech Stack | Description | Links |
+| 🚀 Project | 🛠 Tech Stack | 📖 Description | 🔗 Links |
 | :------ | :--------- | :---------- | :---- |
-| **Omnikon Org Website** | `React`, `Firebase`, `Supabase`, `Tailwind` | Scalable full-stack platform with OAuth, role-based access, and real-time syncing. | [Repo](https://github.com/Pranav00076/OmnikonHackathon) / [Live](https://demondie-website.vercel.app/) |
-| **ConferAI** | `Next.js`, `Node.js`, `WebSockets`, `Deepgram` | Real-time conferencing platform with live audio transcription and 10+ concurrent users. | [Repo](https://github.com/Pranav00076/ConferAI) / [Live](https://confer-ai.vercel.app/) |
+| **Omnikon Org Website** | `React`, `Firebase`, `Supabase`, `Tailwind` | Scalable full-stack platform with OAuth, role-based access, and real-time syncing. | [Repo](https://github.com/Pranav00076/OmnikonHackathon) <br> [Live](https://demondie-website.vercel.app/) |
+| **ConferAI** | `Next.js`, `Node.js`, `WebSockets`, `Deepgram` | Real-time conferencing platform with live audio transcription and 10+ concurrent users. | [Repo](https://github.com/Pranav00076/ConferAI) <br> [Live](https://confer-ai.vercel.app/) |
 | **Local AI - Private RAG** | `Python`, `Ollama`, `LangChain`, `ChromaDB` | RAG assistant using local models (Qwen) to process 100+ private documents offline. | [Repo](https://github.com/Pranav00076/Local-AI) |
 | **AI Business Suite** | `n8n`, `OpenAI`, `Airtable`, `Slack API` | End-to-end automation reducing manual lead qualification by 70%. | [Repo](https://github.com/Pranav00076/AI-Business-Marketing-Suite---n8n) |
-| **Code-9 Community** | `React`, `Tailwind`, `Framer Motion` | Modern responsive website with smooth interactive UI animations. | [Repo](https://github.com/Pranav00076/Code-9-) / [Live](https://code-9-xi.vercel.app/) |
-| **Smart Scheduling Assistant** | `Python`, `OpenAI`, `Agents` | AI scheduling assistant improving task prioritization efficiency by 45%. | Repo |
+| **Code-9 Community** | `React`, `Tailwind`, `Framer Motion` | Modern responsive website with smooth interactive UI animations. | [Repo](https://github.com/Pranav00076/Code-9-) <br> [Live](https://code-9-xi.vercel.app/) |
+| **Smart Scheduling** | `Python`, `OpenAI`, `Agents` | AI scheduling assistant improving task prioritization efficiency by 45%. | Repo |
 
 ---
 
-### 🏆 Certifications
+### 🎓 Certifications
 
-* **OCI AI Foundations Associate**
-* **Oracle Certified Generative AI Professional**
-* **Oracle AI Vector Search Certified Professional**
+<details>
+<summary>🥇 <b>View Certifications</b></summary>
+
+<br/>
+
+* 🏆 **OCI AI Foundations Associate**
+* 🏆 **Oracle Certified Generative AI Professional**
+* 🏆 **Oracle AI Vector Search Certified Professional**
+
+</details>
 
 ---
 
 ### 📊 System Telemetry & GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav00076&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav00076&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranav00076&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav00076&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranav00076&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav00076&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <h4>📈 Contribution Activity</h4>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav00076&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 <p align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Pranav00076&label=Profile+Views&color=00FF00&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Pranav00076&label=Profile+Views&color=ff007f&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
 </p>
