@@ -1,0 +1,183 @@
+
+    <svg width="1000" height="650" viewBox="0 0 1000 650" xmlns="http://www.w3.org/2000/svg">
+        
+<defs>
+    <linearGradient id="aurora1" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#9d4edd" stop-opacity="0.3">
+            <animate attributeName="stop-color" values="#9d4edd;#00f2fe;#9d4edd" dur="5s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#00f2fe" stop-opacity="0.1" />
+    </linearGradient>
+    <linearGradient id="aurora2" x1="100%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#f72585" stop-opacity="0.2">
+            <animate attributeName="stop-color" values="#f72585;#4cc9f0;#f72585" dur="7s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#4cc9f0" stop-opacity="0.05" />
+    </linearGradient>
+    
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="4" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="glow-heavy" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="15" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+</defs>
+
+        
+<style>
+    @keyframes float {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+        100% { transform: translateY(0px); }
+    }
+    @keyframes float-delay {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(10px); }
+        100% { transform: translateY(0px); }
+    }
+    @keyframes pulse {
+        0% { opacity: 0.7; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.02); }
+        100% { opacity: 0.7; transform: scale(1); }
+    }
+    .glass {
+        fill: rgba(255, 255, 255, 0.04);
+        stroke: rgba(255, 255, 255, 0.1);
+        stroke-width: 1;
+    }
+    .glass-dark {
+        fill: rgba(0, 0, 0, 0.4);
+        stroke: rgba(255, 255, 255, 0.15);
+        stroke-width: 1;
+    }
+    .text-title {
+        font-family: system-ui, -apple-system, sans-serif;
+        font-weight: 800;
+        font-size: 58px;
+        fill: #ffffff;
+    }
+    .text-subtitle {
+        font-family: system-ui, -apple-system, sans-serif;
+        font-weight: 600;
+        font-size: 26px;
+        fill: #e2e8f0;
+    }
+    .text-mono {
+        font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+        font-size: 16px;
+        fill: #00ffcc;
+    }
+    .text-body {
+        font-family: system-ui, -apple-system, sans-serif;
+        font-size: 15px;
+        fill: #94a3b8;
+    }
+    @keyframes rotate { 100% { transform: rotate(360deg); } }
+    @keyframes reverse-rotate { 100% { transform: rotate(-360deg); } }
+    @keyframes slide-right {
+        0% { transform: translateX(0); opacity: 1; }
+        20% { transform: translateX(0); opacity: 1; }
+        25% { transform: translateX(50px); opacity: 0; }
+        95% { transform: translateX(-50px); opacity: 0; }
+        100% { transform: translateX(0); opacity: 1; }
+    }
+</style>
+
+        <rect width="100%" height="100%" fill="#09090b" />
+        <rect width="100%" height="100%" fill="url(#aurora1)" opacity="0.1" />
+        
+        <text x="500" y="60" class="text-title" font-size="36" text-anchor="middle" filter="url(#glow)">PROJECT SHOWCASE</text>
+        <text x="500" y="90" class="text-body" text-anchor="middle">Building scalable intelligence and real-world systems.</text>
+        
+        
+        <g transform="translate(50, 120)" style="animation: float 6.0s ease-in-out infinite">
+            <rect x="0" y="0" width="440" height="140" rx="16" class="glass" />
+            <rect x="0" y="0" width="440" height="140" rx="16" fill="none" stroke="url(#aurora1)" stroke-width="1" />
+            <text x="24" y="45" font-family="system-ui" font-weight="800" font-size="24" fill="#ffffff">PromptForge</text>
+            <text x="24" y="75" class="text-body">AI Prompt Engineering Studio</text>
+            
+            <rect x="24" y="95" width="70" height="24" rx="12" fill="rgba(0,255,204,0.08)" stroke="#00ffcc" stroke-width="0.8" />
+            <text x="59" y="111" font-family="system-ui" font-weight="600" font-size="11" fill="#00ffcc" text-anchor="middle">Next.js</text>
+            
+            <rect x="104" y="95" width="70" height="24" rx="12" fill="rgba(0,255,204,0.08)" stroke="#00ffcc" stroke-width="0.8" />
+            <text x="139" y="111" font-family="system-ui" font-weight="600" font-size="11" fill="#00ffcc" text-anchor="middle">OpenAI</text>
+            
+        </g>
+        
+        <g transform="translate(510, 120)" style="animation: float-delay 6.5s ease-in-out infinite">
+            <rect x="0" y="0" width="440" height="140" rx="16" class="glass" />
+            <rect x="0" y="0" width="440" height="140" rx="16" fill="none" stroke="url(#aurora1)" stroke-width="1" />
+            <text x="24" y="45" font-family="system-ui" font-weight="800" font-size="24" fill="#ffffff">Local AI</text>
+            <text x="24" y="75" class="text-body">Private RAG Assistant</text>
+            
+            <rect x="24" y="95" width="70" height="24" rx="12" fill="rgba(0,255,204,0.08)" stroke="#00ffcc" stroke-width="0.8" />
+            <text x="59" y="111" font-family="system-ui" font-weight="600" font-size="11" fill="#00ffcc" text-anchor="middle">Python</text>
+            
+            <rect x="104" y="95" width="70" height="24" rx="12" fill="rgba(0,255,204,0.08)" stroke="#00ffcc" stroke-width="0.8" />
+            <text x="139" y="111" font-family="system-ui" font-weight="600" font-size="11" fill="#00ffcc" text-anchor="middle">Ollama</text>
+            
+            <rect x="184" y="95" width="70" height="24" rx="12" fill="rgba(0,255,204,0.08)" stroke="#00ffcc" stroke-width="0.8" />
+            <text x="219" y="111" font-family="system-ui" font-weight="600" font-size="11" fill="#00ffcc" text-anchor="middle">Chroma</text>
+            
+        </g>
+        
+        <g transform="translate(50, 280)" style="animation: float 7.0s ease-in-out infinite">
+            <rect x="0" y="0" width="440" height="140" rx="16" class="glass" />
+            <rect x="0" y="0" width="440" height="140" rx="16" fill="none" stroke="url(#aurora1)" stroke-width="1" />
+            <text x="24" y="45" font-family="system-ui" font-weight="800" font-size="24" fill="#ffffff">ConferAI</text>
+            <text x="24" y="75" class="text-body">Real-time conferencing</text>
+            
+            <rect x="24" y="95" width="70" height="24" rx="12" fill="rgba(0,255,204,0.08)" stroke="#00ffcc" stroke-width="0.8" />
+            <text x="59" y="111" font-family="system-ui" font-weight="600" font-size="11" fill="#00ffcc" text-anchor="middle">Node.js</text>
+            
+            <rect x="104" y="95" width="70" height="24" rx="12" fill="rgba(0,255,204,0.08)" stroke="#00ffcc" stroke-width="0.8" />
+            <text x="139" y="111" font-family="system-ui" font-weight="600" font-size="11" fill="#00ffcc" text-anchor="middle">WebSockets</text>
+            
+        </g>
+        
+        <g transform="translate(510, 280)" style="animation: float-delay 7.5s ease-in-out infinite">
+            <rect x="0" y="0" width="440" height="140" rx="16" class="glass" />
+            <rect x="0" y="0" width="440" height="140" rx="16" fill="none" stroke="url(#aurora1)" stroke-width="1" />
+            <text x="24" y="45" font-family="system-ui" font-weight="800" font-size="24" fill="#ffffff">Omnikon</text>
+            <text x="24" y="75" class="text-body">Organization Website</text>
+            
+            <rect x="24" y="95" width="70" height="24" rx="12" fill="rgba(0,255,204,0.08)" stroke="#00ffcc" stroke-width="0.8" />
+            <text x="59" y="111" font-family="system-ui" font-weight="600" font-size="11" fill="#00ffcc" text-anchor="middle">React</text>
+            
+            <rect x="104" y="95" width="70" height="24" rx="12" fill="rgba(0,255,204,0.08)" stroke="#00ffcc" stroke-width="0.8" />
+            <text x="139" y="111" font-family="system-ui" font-weight="600" font-size="11" fill="#00ffcc" text-anchor="middle">Firebase</text>
+            
+        </g>
+        
+        <g transform="translate(50, 440)" style="animation: float 8.0s ease-in-out infinite">
+            <rect x="0" y="0" width="440" height="140" rx="16" class="glass" />
+            <rect x="0" y="0" width="440" height="140" rx="16" fill="none" stroke="url(#aurora1)" stroke-width="1" />
+            <text x="24" y="45" font-family="system-ui" font-weight="800" font-size="24" fill="#ffffff">Code-9</text>
+            <text x="24" y="75" class="text-body">Community Website</text>
+            
+            <rect x="24" y="95" width="70" height="24" rx="12" fill="rgba(0,255,204,0.08)" stroke="#00ffcc" stroke-width="0.8" />
+            <text x="59" y="111" font-family="system-ui" font-weight="600" font-size="11" fill="#00ffcc" text-anchor="middle">React</text>
+            
+            <rect x="104" y="95" width="70" height="24" rx="12" fill="rgba(0,255,204,0.08)" stroke="#00ffcc" stroke-width="0.8" />
+            <text x="139" y="111" font-family="system-ui" font-weight="600" font-size="11" fill="#00ffcc" text-anchor="middle">Tailwind</text>
+            
+        </g>
+        
+        <g transform="translate(510, 440)" style="animation: float-delay 8.5s ease-in-out infinite">
+            <rect x="0" y="0" width="440" height="140" rx="16" class="glass" />
+            <rect x="0" y="0" width="440" height="140" rx="16" fill="none" stroke="url(#aurora1)" stroke-width="1" />
+            <text x="24" y="45" font-family="system-ui" font-weight="800" font-size="24" fill="#ffffff">AI Business Suite</text>
+            <text x="24" y="75" class="text-body">Automation Workflows</text>
+            
+            <rect x="24" y="95" width="70" height="24" rx="12" fill="rgba(0,255,204,0.08)" stroke="#00ffcc" stroke-width="0.8" />
+            <text x="59" y="111" font-family="system-ui" font-weight="600" font-size="11" fill="#00ffcc" text-anchor="middle">n8n</text>
+            
+            <rect x="104" y="95" width="70" height="24" rx="12" fill="rgba(0,255,204,0.08)" stroke="#00ffcc" stroke-width="0.8" />
+            <text x="139" y="111" font-family="system-ui" font-weight="600" font-size="11" fill="#00ffcc" text-anchor="middle">Airtable</text>
+            
+        </g>
+        
+    </svg>
+    
