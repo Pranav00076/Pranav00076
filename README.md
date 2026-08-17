@@ -135,7 +135,17 @@
 
 ### 🎓 Badges
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d9fc653-5909-468b-8bd4-3c77bd147153" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<h2 align="center">Badges</h2>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/2d9fc653-5909-468b-8bd4-3c77bd147153/public_url">
+  <img src="https://images.credly.com/size/150x150/images/2d9fc653-5909-468b-8bd4-3c77bd147153/image.png" width="150" alt="Credly Badge">
+  </a>
+  <a href="YOUR_CREDLY_URL">
+    <img src="YOUR_BADGE_IMAGE_URL" width="150" />
+  </a>
+</p>
+
 ---
 
 ### 📊 System Telemetry & GitHub Stats
