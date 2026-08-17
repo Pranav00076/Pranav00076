@@ -137,7 +137,7 @@
 <p align="center" >
 
 [<img src="./public/lfc102-inclusive-open-source-community-orientation.png" width="150">](https://www.credly.com/badges/2d9fc653-5909-468b-8bd4-3c77bd147153/public_url)
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="./public/lfd140-github-for-open-standards-development.png" width="150">](https://www.credly.com/badges/7b073889-08c9-4a55-a09a-1d213809447f/public_url)
 
 </p>
