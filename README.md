@@ -82,16 +82,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Pranav00076&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="Pranav00076 Trophies" />
-  </a>
-</div>
-
----
-
 ### 🚀 Work Experience
 
 > 💼 **AI Intern @ FlyRank AI** *(July 2026)*  
