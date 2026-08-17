@@ -133,6 +133,11 @@
 
 ---
 
+### 🎓 Badges
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d9fc653-5909-468b-8bd4-3c77bd147153" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+---
+
 ### 📊 System Telemetry & GitHub Stats
 
 <div align="center">
