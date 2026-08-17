@@ -134,7 +134,7 @@
 &nbsp;&nbsp;&nbsp;
 [<img src="./public/Oracle-CloudInfraFoundation.png" width="125">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=99CFC74D35439D6E14E20A7FCB6CC00BA6D995486CD55599F63CE68FFCA9BBB4)
 &nbsp;&nbsp;&nbsp;
-[<img src="./public/Oracle-CouldInfraGenAI.png" width="100">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=18DF72FDDB26A58F948D8770230C380797608D87F26104CF561F4A0AA9C2F6BB)
+[<img src="./public/Oracle-CouldInfraGenAI.png" width="125">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=18DF72FDDB26A58F948D8770230C380797608D87F26104CF561F4A0AA9C2F6BB)
 
 </p>
 ---
