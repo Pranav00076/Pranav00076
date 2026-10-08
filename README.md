@@ -1,125 +1,329 @@
-<div align="center">
-  <img src="luffy-gear5-moon-transformation-rxjuhxn3kb2n8tdt.jpg" alt="Banner">
-</div>
+# Hey, I'm Pranav Thawait
 
-<div align="center">
-  <h1>
-    <a href="https://Pranav00076.github.io" target="_blank">
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=Building+AI+%26+Scalable+Systems;Student+%2C+Innovator;Exploring+LLMs+%26+Automation;Full-Stack+Developer+%7C+AI+Engineer;Pranav+Thawait+%7BCode%7D" alt="Typing SVG" />
-    </a>
-  </h1>
-  <h3>$ **./execute --build --scale --impact\.** $</h3>
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/pranav-thawait-140a092b2" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:pranavthawait@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://github.com/Pranav00076" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </p>
+### AI/ML Engineer · Full-Stack Developer · Open-Source Builder
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pranav-thawait-140a092b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Thawait-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Pranav00076">
+    <img src="https://img.shields.io/badge/GitHub-Pranav00076-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:pranavthawait@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+## About Me
 
-### 💻 System Overview: Pranav Thawait
+I'm a **Computer Science student specializing in AI/ML** at Newton School of Technology, passionate about building software that combines **AI, modern web technologies, and real-world systems**.
 
-> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
+I enjoy going beyond tutorials and building things from scratch — from **RAG systems and local LLM applications** to **real-time collaborative platforms, developer tools, and open-source products**.
 
-**Current State:** 🎓 Second-year Computer Science student specializing in **Artificial Intelligence and Machine Learning**, with hands-on experience building LLM-powered applications, Retrieval-Augmented Generation (RAG) systems, AI workflow automation, and scalable full-stack web applications.
+Currently, I'm focused on:
 
-**Core Mission:** To build intelligent and scalable systems that combine **design, automation, and AI**, turning ideas into real-world products through clean and efficient code.
+-  AI/LLM applications
+-  Retrieval-Augmented Generation (RAG)
+-  AI agents & automation
+-  Full-stack web applications
+-  Real-time systems & WebSockets
+-  Developer tools & open-source software
+-  Building and shipping products
 
-<details>
-<summary>⚡ <b>View Active Missions & Details</b></summary>
-
-<br/>
-
-* 🔭 **Active Development:** Building **Local AI (Private RAG)** and scalable automation workflows.
-* 🌱 **Skill Acquisition:** Deep dive into **LangChain, Vector Databases, AI Agents, and Local LLMs**.
-* 🤝 **Collaboration Protocol:** Open to contributing to **AI, Full Stack, and Open Source Projects**.
-* 📫 **API Endpoint:** **[pranavthawait@gmail.com](mailto:pranavthawait@gmail.com)**
-
-</details>
-
-<br/>
+I'm also a **Co-Founder of Omnikon**, an open-source organization focused on developer tools, educational content, documentation, community programs, and contributor growth.
 
 ---
 
-### 🛠️ Technology Stack & Toolchain
+##  What I Build
 
-<div align="center">
-  <h4>⚙️ Core & Languages</h4>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,cpp,bash&theme=dark" alt="Languages">
-  
-  <h4>🌐 Frontend & UI</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark" alt="Frontend">
-  
-  <h4>🗄️ Backend, Databases & Cloud</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,postgres,mysql,docker,vercel&theme=dark" alt="Backend">
-  
-  <h4>🤖 AI, Machine Learning & Automation</h4>
-  <p>
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-    <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-    <img src="https://img.shields.io/badge/Ollama-black.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
-    <img src="https://img.shields.io/badge/n8n-FF6D5A.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-    <img src="https://img.shields.io/badge/Zapier-FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier">
-    <img src="https://img.shields.io/badge/Airtable-18BFFF.svg?style=for-the-badge&logo=airtable&logoColor=white" alt="Airtable">
-  </p>
+```text
+AI Systems
+├── RAG Applications
+├── Local LLMs
+├── AI Agents
+├── LLM Integrations
+└── AI Automation
 
-  <h4>🔧 Tools & DevOps</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" alt="Tools">
-</div>
+Software Systems
+├── Full-Stack Applications
+├── Real-Time Systems
+├── WebSocket Applications
+├── Developer Tools
+└── APIs & Backend Systems
+
+Open Source
+├── Developer Libraries
+├── Community Projects
+├── Open-Source Products
+└── Collaborative Development
+```
 
 ---
 
-### 🚀 Work Experience
+#  Tech Stack
 
-> 💼 **AI Intern @ FlyRank AI** *(July 2026)*  
-> Built AI-driven content automation and SEO optimization workflows. Developed LLM-powered generation pipelines.
+### Languages
 
-> 🛠️ **Co-Founder & Maintainer @ Omnikon Organization** *(June 2026 - Present)*  
-> Led development of official open-source org website. Managed deployments and contributor workflows.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
+</p>
 
-> 🌐 **Open Source Contributor @ HacktoberFest** *(Oct 2025)*  
-> Contributed PRs across multiple repositories for bug fixes and feature additions.
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,electron,figma" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase,supabase" />
+</p>
+
+### AI / ML / GenAI
+
+**RAG · LangChain · Embeddings · Vector Search · LLM Applications · AI Agents · Prompt Engineering · Local LLMs · Ollama · Qwen · OpenAI API · OpenRouter · Groq · ChromaDB**
+
+### Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux" />
+</p>
+
+**Git · GitHub · Docker · CI/CD · REST APIs · WebSockets · Vercel**
 
 ---
 
-### 🌟 Featured Projects
+#  Featured Projects
 
-| 🚀 Project | 🛠 Tech Stack | 📖 Description | 🔗 Links |
-| :------ | :--------- | :---------- | :---- |
-| **Omnikon Org Website** | `React`, `Firebase`, `Supabase`, `Tailwind` | Scalable full-stack platform with OAuth, role-based access, and real-time syncing. | [Repo](https://github.com/Pranav00076/OmnikonHackathon) <br> [Live](https://demondie-website.vercel.app/) |
-| **ConferAI** | `Next.js`, `Node.js`, `WebSockets`, `Deepgram` | Real-time conferencing platform with live audio transcription and 10+ concurrent users. | [Repo](https://github.com/Pranav00076/ConferAI) <br> [Live](https://confer-ai.vercel.app/) |
-| **Local AI - Private RAG** | `Python`, `Ollama`, `LangChain`, `ChromaDB` | RAG assistant using local models (Qwen) to process 100+ private documents offline. | [Repo](https://github.com/Pranav00076/Local-AI) |
-| **AI Business Suite** | `n8n`, `OpenAI`, `Airtable`, `Slack API` | End-to-end automation reducing manual lead qualification by 70%. | [Repo](https://github.com/Pranav00076/AI-Business-Marketing-Suite---n8n) |
-| **Code-9 Community** | `React`, `Tailwind`, `Framer Motion` | Modern responsive website with smooth interactive UI animations. | [Repo](https://github.com/Pranav00076/Code-9-) <br> [Live](https://code-9-xi.vercel.app/) |
-| **Smart Scheduling** | `Python`, `OpenAI`, `Agents` | AI scheduling assistant improving task prioritization efficiency by 45%. | Repo |
+##  DriveLoader
+
+### Google Drive → React Media Library
+
+**`@driveloader/react`**
+
+A developer-focused React library for working with Google Drive-hosted media.
+
+**Highlights**
+
+- 📦 Published as an NPM package
+-  React + TypeScript
+-  Google Drive media integration
+-  Smart URL resolution
+-  Media loading & caching
+-  Developer documentation
+-  Built as an open-source developer tool
+
+**NPM:**  
+https://www.npmjs.com/package/@driveloader/react
+
+**Repository:**  
+https://github.com/Omnikon-Org/driveLoader
 
 ---
 
-### 🎓 Certifications
+##  ConferAI
 
-<details>
-<summary>🥇 <b>View Certifications</b></summary>
+### Real-Time AI Meeting Assistant
 
-<br/>
+A real-time conferencing platform combining **WebSockets, audio streaming and AI transcription**.
 
-* 🏆 **OCI AI Foundations Associate**
-* 🏆 **Oracle Certified Generative AI Professional**
-* 🏆 **Oracle AI Vector Search Certified Professional**
+**Tech:**  
+`Next.js` · `React` · `Node.js` · `WebSockets` · `Deepgram` · `Firebase`
 
-</details>
+**Highlights**
+
+-  Real-time audio streaming
+-  Live AI transcription
+-  WebSocket-based communication
+-  Multi-device / microphone synchronization
+-  Speaker identification
+-  Hindi-English code switching
+-  Firebase authentication
+-  Transcript persistence & export
+-  PWA support
+
+**Repository:**  
+https://github.com/Pranav00076/ConferAI
+
+---
+
+##  Local AI
+
+### Private Local RAG Assistant
+
+A local-first Retrieval-Augmented Generation system designed to answer questions over private documents without relying on external AI APIs.
+
+**Tech:**  
+`Python` · `Ollama` · `Qwen` · `LangChain` · `ChromaDB`
+
+**Pipeline**
+
+```text
+Documents
+    ↓
+Ingestion
+    ↓
+Chunking
+    ↓
+Embeddings
+    ↓
+Vector Database
+    ↓
+Semantic Retrieval
+    ↓
+Qwen / Ollama
+    ↓
+Contextual Answer
+```
+
+**Highlights**
+
+-  Local/private inference
+-  Retrieval-Augmented Generation
+-  Document ingestion
+-  Semantic search
+-  Embedding-based retrieval
+-  Local Qwen inference
+-  Persistent vector storage
+
+**Repository:**  
+https://github.com/Pranav00076/Local-AI
+
+---
+
+##  SyncCanvas
+
+### AI-Powered Real-Time Collaborative Whiteboard
+
+An open-source collaborative whiteboard built around real-time synchronization.
+
+**Tech:**  
+`React` · `TypeScript` · `Fabric.js` · `Node.js` · `Express` · `WebSockets` · `Yjs` · `OpenRouter`
+
+**Highlights**
+
+-  Infinite collaborative canvas
+-  Real-time multiplayer synchronization
+-  Live cursors
+-  Shapes, text & sticky notes
+-  CRDT-based synchronization
+-  WebSocket communication
+-  Private rooms
+-  Local/WiFi rooms
+-  AI mind-map generation
+-  Canvas export
+
+---
+
+##  AI Business Automation Suite
+
+### LLM-Powered Workflow Automation
+
+An AI automation system designed to connect LLMs with business workflows.
+
+**Tech:**  
+`n8n` · `OpenAI API` · `Groq` · `Airtable` · `Gmail API` · `Slack API`
+
+**Highlights**
+
+-  AI lead qualification
+-  Lead scoring
+-  Automated email generation
+-  Slack notifications
+-  CRM updates
+-  AI content generation
+-  Human-in-the-Loop approval workflows
+
+---
+
+#  Omnikon
+
+### Co-Founder · Open-Source Organization
+
+I'm a Co-Founder of **Omnikon**, a student-led open-source technology organization focused on building software, developer tools and community-driven projects.
+
+My work includes:
+
+- Managing repositories
+- Reviewing pull requests
+- Building documentation
+- Creating developer roadmaps
+- Maintaining open-source projects
+- Building software products
+- Supporting contributor growth
+- Community initiatives
+- Technical events & hackathons
+
+### Omnikon
+
+🌐 https://omnikonhub.com/
+
+💻 https://github.com/Omnikon-Org
+
+---
+
+#  Open Source
+
+I enjoy building in public and contributing to open-source projects.
+
+Areas I contribute to:
+
+-  React / TypeScript
+-  Full-stack development
+-  AI/LLM applications
+-  Real-time systems
+-  Developer tooling
+-  NPM libraries
+-  Documentation
+-  CI/CD & deployment
+
+I'm especially interested in projects where **software engineering meets AI and developer experience**.
+
+---
+
+#  AI / GenAI Interests
+
+I'm particularly interested in the engineering side of modern AI systems:
+
+```text
+LLMs
+ │
+ ├── RAG
+ │   ├── Embeddings
+ │   ├── Vector Search
+ │   └── Semantic Retrieval
+ │
+ ├── Agents
+ │   ├── Tool Calling
+ │   ├── Planning
+ │   └── Automation
+ │
+ ├── Local AI
+ │   ├── Ollama
+ │   └── Qwen
+ │
+ └── AI Applications
+     ├── Real-Time AI
+     ├── Developer Tools
+     └── Workflow Automation
+```
+
+---
+
+#  Certifications
+
+### Oracle
+
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+- **Oracle AI Vector Search Certified Professional**
+
+### The Linux Foundation
+
+- **LFX Open Source Community Orientation**
+- **LFX GitHub for Open Standards Development**
 
 ---
 ### Badges
@@ -137,31 +341,63 @@
 [<img src="./public/Oracle-CouldInfraGenAI.png" width="140">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=18DF72FDDB26A58F948D8770230C380797608D87F26104CF561F4A0AA9C2F6BB)
 
 </p>
+
 ---
 
-### 📊 System Telemetry & GitHub Stats
+#  Education
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav00076&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav00076&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav00076&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+### Newton School of Technology
 
-<br>
+**B.Tech — Computer Science & Engineering (AI/ML)**
 
-<div align="center">
-  <h4>📈 Contribution Activity</h4>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav00076&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
+`2025 – 2029`
+
+**CGPA: 9.4 / 10**
+
+---
+
+#  GitHub Stats
 
 <p align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Pranav00076&label=Profile+Views&color=ff007f&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranav00076&show_icons=true&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav00076&layout=compact&hide_border=true" height="165" />
+</p>
+
+---
+
+#  Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pranav00076&hide_border=true" />
+</p>
+
+---
+
+#  Let's Connect
+
+I'm always interested in:
+
+-  AI/ML projects
+-  GenAI & RAG
+-  Full-stack engineering
+-  Open-source collaboration
+-  Developer tools
+-  Hackathons
+-  Experimental projects
+
+If you're building something interesting, feel free to reach out.
+
+<p>
+  <a href="https://www.linkedin.com/in/pranav-thawait-140a092b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pranavthawait@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+  <i>Building. Learning. Shipping. Contributing.</i>
 </p>
